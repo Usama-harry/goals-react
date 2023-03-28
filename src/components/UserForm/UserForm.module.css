@@ -1,0 +1,38 @@
+.container {
+  width: 60%;
+  margin: 10rem auto;
+  padding: 1rem;
+  border-radius: 5px;
+  text-align: center;
+  background-color: white;
+}
+
+.add-goal-title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--primary-color);
+}
+
+.input {
+  height: 2.8rem;
+  width: 100%;
+  margin-top: 1rem;
+  border-width: 1px;
+  border: 2px solid #ccc;
+  outline: none;
+  caret-color: #ccc;
+  text-indent: 0.3rem;
+  font-size: 1.2rem;
+  color: grey;
+}
+
+.input:focus {
+  border-color: #ccc;
+  border-radius: 0;
+}
+
+.input::-webkit-input-placeholder {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: normal;
+}

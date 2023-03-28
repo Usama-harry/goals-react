@@ -1,0 +1,14 @@
+.btn {
+  margin-top: 1rem;
+  padding: 0.8rem 1.6rem;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 1rem;
+  text-transform: uppercase;
+  width: 100%;
+  font-weight: bold;
+  background-color: var(--primary-color);
+  cursor: pointer;
+}
