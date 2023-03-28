@@ -1,4 +1,4 @@
-class Goal {
+class GoalModel {
   constructor(id, text, priorty) {
     this.id = id;
     this.text = text;
@@ -7,4 +7,4 @@ class Goal {
   }
 }
 
-export default Goal;
+export default GoalModel;
