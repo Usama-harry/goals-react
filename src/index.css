@@ -16,4 +16,5 @@ body {
 
   /* My Basic Styles */
   background-color: var(--backgroud-color);
+  font-family: "Roboto", sans-serif;
 }
