@@ -1,0 +1,14 @@
+.container {
+  width: 60%;
+  margin: 10rem auto;
+
+  border-radius: 5px;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    width: 95%;
+    margin: 4rem auto;
+  }
+}

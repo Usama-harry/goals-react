@@ -1,0 +1,31 @@
+.container {
+  background-color: var(--primary-color);
+  border-radius: 5px;
+  margin: 0.4rem 0;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.priorty {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+}
+
+.red {
+  background-color: red;
+}
+.white {
+  background-color: white;
+}
+.green {
+  background-color: green;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: white;
+}
